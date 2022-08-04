@@ -1,11 +1,10 @@
 ### Hi there, I'm Basci and I code things👋
 
+Languages: go and some cs 
 
-[!Languages:](https://skillicons.dev/icons?i=go,cs)](https://skillicons.dev)
+Learning: Bash 
 
-[!Learning:](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+Discord: basci__#1697
 
-[!Discord:](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
-
-[!OS:](https://skillicons.dev/icons?i=Linux)](https://skillicons.dev)
+OS: Linux
 

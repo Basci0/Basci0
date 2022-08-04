@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-  I’m currently learning: Bash 
+
+ Languages: Go and some c# 🦆
+
+ Learning: Bash 🤓
  
- How to reach me: basci__#1697
+ Discord: basci__#1697 😎
+ 
+ OS: Linux 🐧
 

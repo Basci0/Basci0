@@ -8,6 +8,6 @@ Discord: basci__#1697
 
 OS: Linux
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Basci0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBasci0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 

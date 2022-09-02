@@ -2,4 +2,8 @@
 
 Hi there I'm Basci and i like coding.
 
-I have some experience in golang, git, bash and Rust.
+```
+Languages&&tools: go, bash, git, github
+Learning: Rust 
+OS: Linux 
+fav lang: brainfuck

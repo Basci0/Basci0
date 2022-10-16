@@ -1,4 +1,5 @@
 # Basci!🦆
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
 
 Hi there I'm Basci and i like coding.
 

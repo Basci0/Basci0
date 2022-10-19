@@ -8,6 +8,6 @@
 
 🗣 - How to reach me: Discord:basci__#1697 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Basci0&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Basci0&show_icons=true&theme=radical&locale=en" alt="ricky-y4" /></p>
 
 

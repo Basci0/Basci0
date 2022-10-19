@@ -8,6 +8,5 @@
 
 🗣 - How to reach me: Discord:basci__#1697 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Basci0&show_icons=true&theme=radical&locale=en" alt="ricky-y4" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Basci0&show_icons=true&theme=radical&locale=en&layout=compact" alt="Basci0" /></p>
 
